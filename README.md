@@ -1,6 +1,6 @@
 # Arena Manager - Your All-in-One Discord Bot for Esports Excellence
 
-Arena Manager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, Arena Manager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. The provided source code is generously shared for educational purposes.
+Arena Manager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, Arena Manager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
 ![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![discord.js Version](https://img.shields.io/badge/lib-discord.py%202.0-blue)
