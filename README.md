@@ -32,8 +32,8 @@ For esports inquiries, feedback, or support, reach out via our [Support Server](
 ---
 
 ### Arena Manager Architects 🎮
-<a href="https://github.com/arenamanagerofficial/arena-manager/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/alastrimdev" />
+<a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager" />
 </a>
 
 ---
