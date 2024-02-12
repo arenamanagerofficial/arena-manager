@@ -1,6 +1,6 @@
 # ArenaManager - Your All-in-One Discord Bot for Esports Excellence
 
-ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, Arena Manager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
+ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, ArenaManager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
 ![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![discord.js Version](https://img.shields.io/badge/lib-discord.py%202.0-blue)
@@ -26,12 +26,12 @@ Embark on the esports journey by adding ArenaManager to your Discord server: [Ad
 
 Be a part of the esports legacy! Feel free to open an issue for discussion before making contributions. Dive into the esports arena in our [Support Server](https://discord.gg/Q52p7cuBHY) for discussions and assistance.
 
-## Arena Manager Contact
-For esports inquiries, feedback, or support, reach out via our [Support Server](https://discord.gg/Q52p7cuBHY) or create an issue on this repository. Thank you for choosing Arena Manager!
+## ArenaManager Contact
+For esports inquiries, feedback, or support, reach out via our [Support Server](https://discord.gg/Q52p7cuBHY) or create an issue on this repository. Thank you for choosing ArenaManager!
 
 ---
 
-### Arena Manager Architects 🎮
+### ArenaManager Architects 🎮
 <a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager" />
 </a>
