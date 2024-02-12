@@ -1,6 +1,6 @@
 # ArenaManager - Your All-in-One Discord Bot for Esports Excellence
 
-Arena Manager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, Arena Manager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
+ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, Arena Manager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
 ![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![discord.js Version](https://img.shields.io/badge/lib-discord.py%202.0-blue)
@@ -11,7 +11,7 @@ Arena Manager is not just a bot, it's the pinnacle of esports management on Disc
 </div>
 
 ## Unleash the Esports Beast
-Arena Manager delivers a wide array of features, including:
+ArenaManager delivers a wide array of features, including:
 
 - **Seamless Scrims Management**
 - **Tournament Wizardry**
@@ -20,9 +20,9 @@ Arena Manager delivers a wide array of features, including:
 - *... and a treasure trove of possibilities.*
 
 ## Installation Odyssey
-Embark on the esports journey by adding Arena Manager to your Discord server: [Add Arena Manager to your server](https://discord.com/api/oauth2/authorize?client_id=1184449900541378641&permissions=8&scope=bot). 
+Embark on the esports journey by adding ArenaManager to your Discord server: [Add ArenaManager to your server](https://discord.com/api/oauth2/authorize?client_id=1184449900541378641&permissions=8&scope=bot). 
 
-## Arena Manager Contributions
+## ArenaManager Contributions
 
 Be a part of the esports legacy! Feel free to open an issue for discussion before making contributions. Dive into the esports arena in our [Support Server](https://discord.gg/Q52p7cuBHY) for discussions and assistance.
 
