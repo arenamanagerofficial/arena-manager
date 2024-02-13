@@ -33,7 +33,7 @@ For esports inquiries, feedback, or support, reach out via our [Support Server](
 --- 
 
 <a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo = arenamanagerofficial/arenamanager">
+  <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager">
   
 </a>
 
