@@ -4,7 +4,8 @@ ArenaManager is not just a bot, it's the pinnacle of esports management on Disco
 
 ![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![discord.js Version](https://img.shields.io/badge/lib-discord.js_v14-blue)
-![Db](https://img.shields.io/badge/db-MongoDB-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?logo=mongodb)
+
 
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1159504274938675312/1206586330168168528/arena-manager-main.png?ex=65dc8c16&is=65ca1716&hm=22e0f6c7fb48982af99dbeb6bb20d62bf0d5a18b3d09f5de4f99c751f12ce437&" alt="Logo" width="25%">
