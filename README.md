@@ -30,13 +30,5 @@ Be a part of the esports legacy! Feel free to open an issue for discussion befor
 ## ArenaManager Contact
 For esports inquiries, feedback, or support, reach out via our [Support Server](https://discord.gg/Q52p7cuBHY) or create an issue on this repository. Thank you for choosing ArenaManager!
 
----
 
-### ArenaManager Architects 🎮
-<a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager" />
-</a>
-
-
----
 
