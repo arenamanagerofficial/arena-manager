@@ -36,5 +36,6 @@ For esports inquiries, feedback, or support, reach out via our [Support Server](
   <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager" />
 </a>
 
+
 ---
 
