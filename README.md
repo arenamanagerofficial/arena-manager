@@ -3,7 +3,7 @@
 ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, ArenaManager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
 ![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
-![discord.js Version](https://img.shields.io/badge/lib-discord.js_v14-blue)
+![Discord.js Version](https://img.shields.io/badge/lib-discord.js_v14-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue?logo=mongodb)
 
 
