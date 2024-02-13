@@ -1,4 +1,4 @@
-# ArenaManager - Your All-in-One Discord Bot for Esports Excellence
+# ArenaManager - Your All-in-One Discord Bot for Esports Excellenc
 
 ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, ArenaManager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
