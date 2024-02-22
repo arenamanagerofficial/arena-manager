@@ -32,6 +32,8 @@ For esports inquiries, feedback, or support, reach out via our [Support Server](
 
 --- 
 
+## ArenaManager Pioneer 👨‍💻
+ 
 <a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager">
   
